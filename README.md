@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashnagargt&show_icons=true&locale=en" alt="suyashnagargt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashnagargt&" alt="suyashnagargt" /></p>
+
+
+## Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
