@@ -35,9 +35,6 @@ Microsoft Certified: Azure AI Fundamentals : https://learn.microsoft.com/api/cre
 
 Microsoft Certified: Azure Data Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B
 
-![PL300](https://raw.githubusercontent.com/SuyashNagarGT/Certification_Badges/main/pl300.png)
-
-
 
 ## Badges
 Achievements are the milestones of our journey, and earned badges are the symbols of our perseverance and dedication. Each one tells a story of challenges faced and victories won.
