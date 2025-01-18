@@ -29,17 +29,17 @@
 I believe the true testament to one's skills lies in the work they produce and share. However, certifications often serve as a valuable byproduct, reflecting the journey of learning and achievement. Here are the certifications I've earned!!!
 
 
-<img align="center" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="My Image" width="50" height="50"> [Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B)
+<img align="center" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="My Image" width="50" height="50">  [Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B)
 
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">[Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B)
-
-
-
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B)
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">  [Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B)
 
 
 
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B)
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">  [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B)
+
+
+
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="My Image" width="50" height="50">  [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B)
 
 
 
@@ -54,17 +54,12 @@ Achievements are the milestones of our journey, and earned badges are the symbol
 
 ### Microsoft AI Skill Challenge 
 
-<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AISkillAug2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge August 2023](https://github.com/SuyashNagarGT/Certification_Badges/blob/main/august%202024%20certification.jpeg)
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AISkillAug2024.jpeg" alt="My Image" width="50" height="50">  [AI Skill Challenge August 2023](https://github.com/SuyashNagarGT/Certification_Badges/blob/main/august%202024%20certification.jpeg)
 
-<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIApril2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge April 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B)
-
-
-<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIJune2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge June 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B)
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIApril2024.jpeg" alt="My Image" width="50" height="50">  [AI Skill Challenge April 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B)
 
 
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIJune2024.jpeg" alt="My Image" width="50" height="50">  [AI Skill Challenge June 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B)
 
-AI Skill Challenge April 2024 : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Nov2024.jpeg" alt="My Image" width="50" height="50">  [AI Skill Challenge November 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/XMJNLBUY?sharingId=7675DBFC8343B36B)
 
-AI Skill Challenge June 2024  : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B
-
-AI Skill Challenge November 2024 : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/XMJNLBUY?sharingId=7675DBFC8343B36B
