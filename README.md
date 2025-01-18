@@ -54,6 +54,15 @@ Achievements are the milestones of our journey, and earned badges are the symbol
 
 ### Microsoft AI Skill Challenge 
 
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AISkillAug2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge August 2023](https://github.com/SuyashNagarGT/Certification_Badges/blob/main/august%202024%20certification.jpeg)
+
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIApril2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge April 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B)
+
+
+<img align="center" src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIJune2024.jpeg" alt="My Image" width="50" height="50">[AI Skill Challenge June 2024](https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B)
+
+
+
 AI Skill Challenge April 2024 : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B
 
 AI Skill Challenge June 2024  : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B
