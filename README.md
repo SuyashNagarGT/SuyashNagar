@@ -35,6 +35,11 @@ Microsoft Certified: Azure AI Fundamentals : https://learn.microsoft.com/api/cre
 
 Microsoft Certified: Azure Data Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B
 
+### Scrum/ Agile way
+PSPO : https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2
+
+PSM : https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547
+
 
 ## Badges
 Achievements are the milestones of our journey, and earned badges are the symbols of our perseverance and dedication. Each one tells a story of challenges faced and victories won.
