@@ -25,7 +25,9 @@
 
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+I believe the true testament to one's skills lies in the work they produce and share. However, certifications often serve as a valuable byproduct, reflecting the journey of learning and achievement. Here are the certifications I've earned!!!
+
 
 <img align="center" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="My Image" width="50" height="50"> [Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B)
 
