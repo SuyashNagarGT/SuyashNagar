@@ -26,3 +26,23 @@
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+Microsoft Certified Power BI Data Analyst Associate : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B
+
+Micsrosoft Certified Azure Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B
+
+Microsoft Certified: Azure AI Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B
+
+Microsoft Certified: Azure Data Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B
+
+
+## Badges
+Achievements are the milestones of our journey, and earned badges are the symbols of our perseverance and dedication. Each one tells a story of challenges faced and victories won.
+
+### Microsoft AI Skill Challenge 
+
+AI Skill Challenge April 2024 : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B
+
+AI Skill Challenge June 2024  : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B
+
+AI Skill Challenge November 2024 : https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/XMJNLBUY?sharingId=7675DBFC8343B36B
