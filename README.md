@@ -27,6 +27,10 @@
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
+![My Image](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main width="200" height="200)
+
+
+
 Microsoft Certified Power BI Data Analyst Associate : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B
 
 Micsrosoft Certified Azure Fundamentals : https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B
