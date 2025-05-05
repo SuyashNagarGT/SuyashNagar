@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Suyash Nagar</h1>
-<h3 align="center">Data Science Enthusiast!</h3>
+<h3 align="center">Data Science and Analytics Consultant!</h3>
 
 
 <p align="left"><img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Suyash_pics.jpg" alt="Suyash" align="left" width="150" height="150"></p>
