@@ -2,6 +2,15 @@
 <h3 align="center">Analytics | Machine Learning | AI!</h3>
 
 
+*Hey there! I'm a data enthusiast who loves diving into Analytics, Machine Learning, and AI to create smart, impactful solutions. With experience leading cross-functional teams, I focus on blending technology with Agile/Scrum practices to drive innovation and efficiency.*
+
+*I'm always eager to learn and evolve with the latest advancements in AI and data science. Exploring new technologies, solving challenging problems, and building intelligent systems—that’s what keeps me motivated.*
+
+*Let’s connect and collaborate on something exciting!*
+
+
+
+
 <p align="left"><img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Suyash_pics.jpg" alt="Suyash" align="left" width="150" height="150"></p>
 
 
