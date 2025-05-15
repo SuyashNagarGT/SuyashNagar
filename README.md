@@ -32,10 +32,21 @@ Toolbox:
 ---
 📺 Latest Youtube Videos
 
+<!--YOUTUBE-VIDEOS-LIST:START -->
+
+<!--YOUTUBE-VIDEOS-LIST:END -->
+
 ➡️[...more youtube videos](https://www.youtube.com/@SuyashNagar)
 ---
+
 📖 Latest Blog Articles
 
+<!--BLOG-ARTICLES-LIST:START -->
+
+<!--BLOG-ARTICLES-LIST:END -->
+
+
+---
 
 
 
