@@ -32,6 +32,9 @@ Toolbox:
 ---
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Human Factors in AI](https://www.youtube.com/watch?v=9qrgWJuKuNo)
+- [Machine Learning Foundations for Product Managers](https://www.youtube.com/watch?v=sa2u4UPQDGA)
+- [Managing Machine Learning Projects - Coursera](https://www.youtube.com/watch?v=hoQzqhvvlj4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
