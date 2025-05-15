@@ -32,6 +32,26 @@ Toolbox:
 ---
 📺 Latest Youtube Videos
 
+<a href="https://youtu.be/9qrgWJuKuNo">
+  <img src="https://img.youtube.com/vi/9qrgWJuKuNo/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
+  
+  **Video Title: Human Factors in AI**
+ </a> 
+
+<a href="https://youtu.be/9qrgWJuKuNo">
+  <img src="https://img.youtube.com/vi/sa2u4UPQDGA/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
+  
+  **Video Title: Machine Learning Foundations for Product Managers**
+</a>
+
+<a href="https://youtu.be/9qrgWJuKuNo">
+  <img src="https://img.youtube.com/vi/hoQzqhvvlj4/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
+  
+  **Video Title: Managing Machine Learning Projects**
+</a>
+
+
+
 <!--YOUTUBE-VIDEOS-LIST:START -->
 
 <!--YOUTUBE-VIDEOS-LIST:END -->
