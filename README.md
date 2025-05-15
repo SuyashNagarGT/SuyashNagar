@@ -2,10 +2,10 @@
 <h3 align="center">Analytics | Machine Learning | AI!</h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashnagargt&label=Profile%20views&color=0e75b6&style=flat" alt="suyashnagargt" /> </p> 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw)
-
 
 
 *Hey there! I'm a data enthusiast who loves diving into Analytics, Machine Learning, and AI to create smart, impactful solutions. With experience leading cross-functional teams, I focus on blending technology with Agile/Scrum practices to drive innovation and efficiency.*
@@ -14,16 +14,28 @@
 
 *Let’s connect and collaborate on something exciting!*
 
+Toolbox:
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly logo" width="50" height="50">
+---
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/power_bi_48_color.svg" alt="PowerBI logo" width="60" height="60">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_color.svg" alt="Fabric logo" width="60" height="60">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_factory_48_color.svg" alt="Data Factory logo" width="60" height="60">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/real_time_intelligence_48_color.svg" alt="Matplotlib logo" width="60" height="60">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/one_lake_48_color.svg" alt="Scikitlearn logo" width="60" height="60">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_engineering_48_color.svg" alt="Plotly logo" width="60" height="60">
+
+   <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/copilot_48_color.svg" alt="Plotly logo" width="60" height="60">
+</div>
+
+---
 
 
 
-<p align="left"><img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Suyash_pics.jpg" alt="Suyash" align="left" width="150" height="150"></p>
 
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashnagargt&label=Profile%20views&color=0e75b6&style=flat" alt="suyashnagargt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashnagargt" alt="suyashnagargt" /></a> </p>
 
