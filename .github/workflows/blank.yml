@@ -1,0 +1,25 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    # Runs every hour; adjust the cron expression as needed.
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with the latest 4 YouTube videos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Ensures the action can push changes.
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with YouTube feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCGpR6c5gApcHhZIFV47bcRw"
+          post_count: 4
