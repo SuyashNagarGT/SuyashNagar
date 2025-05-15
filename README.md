@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Suyash Nagar</h1>
+<h1 align="center">Hi<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">,I'm Suyash Nagar!</h1>
 <h3 align="center">Analytics | Machine Learning | AI!</h3>
 
 
