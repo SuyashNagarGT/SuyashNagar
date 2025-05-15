@@ -1,6 +1,12 @@
 <h1 align="center">Hi<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">,I'm Suyash Nagar!</h1>
 <h3 align="center">Analytics | Machine Learning | AI!</h3>
 
+---
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw)
+
+
 
 *Hey there! I'm a data enthusiast who loves diving into Analytics, Machine Learning, and AI to create smart, impactful solutions. With experience leading cross-functional teams, I focus on blending technology with Agile/Scrum practices to drive innovation and efficiency.*
 
