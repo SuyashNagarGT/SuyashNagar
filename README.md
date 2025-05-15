@@ -38,48 +38,6 @@ Toolbox:
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
----
-📺 Latest Youtube Videos
-
-<a href="https://youtu.be/9qrgWJuKuNo">
-  <img src="https://img.youtube.com/vi/9qrgWJuKuNo/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
-  
-  **Video Title: Human Factors in AI**
- </a> 
-
-<a href="https://youtu.be/9qrgWJuKuNo">
-  <img src="https://img.youtube.com/vi/sa2u4UPQDGA/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
-  
-  **Video Title: Machine Learning Foundations for Product Managers**
-</a>
-
-<a href="https://youtu.be/9qrgWJuKuNo">
-  <img src="https://img.youtube.com/vi/hoQzqhvvlj4/maxresdefault.jpg" alt="Watch the video" width="300" height="150">
-  
-  **Video Title: Managing Machine Learning Projects**
-</a>
-
-
-
-<!--YOUTUBE-VIDEOS-LIST:START -->
-
-<!--YOUTUBE-VIDEOS-LIST:END -->
-
-➡️[...more youtube videos](https://www.youtube.com/@SuyashNagar)
----
-
-📖 Latest Blog Articles
-
-<!--BLOG-ARTICLES-LIST:START -->
-
-<!--BLOG-ARTICLES-LIST:END -->
-
-
----
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashnagargt" alt="suyashnagargt" /></a> </p>
 
 - 🌱 I’m currently learning **AI and Deep Learning**
