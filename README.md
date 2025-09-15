@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">,I'm Suyash Nagar!</h1>
-<h3 align="center">Analytics | Machine Learning | AI!</h3>
+<h3 align="center">Analytics | Machine Learning | AI | Agile Leader !!</h3>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashnagargt&label=Profile%20views&color=0e75b6&style=flat" alt="suyashnagargt" /> </p> 
