@@ -9,12 +9,6 @@
 </div>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashnagargt&label=Profile%20views&color=0e75b6&style=flat" alt="suyashnagargt" /> </p> 
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw)
-
-
 🚀 AI/ML Consultant | Data Storyteller | Agile Leader
 
 "Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"
