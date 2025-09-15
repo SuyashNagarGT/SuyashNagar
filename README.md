@@ -58,32 +58,13 @@ Here are some of my key projects:
   Data engineering and analytics solutions developed for educational institutions, focusing on scalable architectures.
 
 ---
-
+## YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Microsoft Power BI- Power of DAX Average](https://www.youtube.com/watch?v=rMhlhtNmcEI)
 - [Human Factors in AI](https://www.youtube.com/watch?v=9qrgWJuKuNo)
 - [Machine Learning Foundations for Product Managers](https://www.youtube.com/watch?v=sa2u4UPQDGA)
 - [Managing Machine Learning Projects - Coursera](https://www.youtube.com/watch?v=hoQzqhvvlj4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-
-## YouTube Videos
-
-<div align="left">
-  <ul>
-    <li>
-      <a href="https://www.youtube.com/watch?v=rMhlhtNmcEI"><b>Microsoft Power BI- Power of DAX Average</b></a>
-    </li>
-    <li>
-      <a href="https://www.youtube.com/watch?v=9qrgWJuKuNo"><b>Human Factors in AI</b></a>
-    </li>
-    <li>
-      <a href="https://www.youtube.com/watch?v=sa2u4UPQDGA"><b>Machine Learning Foundations for Product Managers</b></a>
-    </li>
-    <li>
-      <a href="https://www.youtube.com/watch?v=hoQzqhvvlj4"><b>Managing Machine Learning Projects - Coursera</b></a>
-    </li>
-  </ul>
-</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashnagargt" alt="suyashnagargt" /></a> </p>
