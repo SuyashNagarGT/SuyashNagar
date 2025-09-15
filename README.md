@@ -9,6 +9,23 @@
 </div>
 
 ---
+<div align="right" style="display: flex; align-items: center; gap: 10px;">
+  <!-- YouTube Channel Logo with link -->
+  <a href="https://www.youtube.com/channel/UCGpR6c5gApcHhZIFV47bcRw" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" alt="YouTube Channel" width="32" height="32">
+  </a>
+  <!-- YouTube Channel Subscribers Badge -->
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw?style=social" alt="YouTube Channel Subscribers">
+  <!-- YouTube Channel Views Badge -->
+  <img src="https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw?style=social" alt="YouTube Channel Views">
+  <!-- LinkedIn Logo with link -->
+  <a href="https://linkedin.com/in/suyashnagar/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="32" height="32">
+  </a>
+</div>
+---
+
+
 🚀 AI/ML Consultant | Data Storyteller | Agile Leader
 
 "Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"
