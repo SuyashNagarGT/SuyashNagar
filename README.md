@@ -2,6 +2,12 @@
 <h3 align="center">Analytics | Machine Learning | AI | Agile Leader !!</h3>
 
 ---
+<div align="right">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw" alt="YouTube Channel Subscribers" style="margin-right: 10px;">
+  <img src="https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw" alt="YouTube Channel Views">
+</div>
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashnagargt&label=Profile%20views&color=0e75b6&style=flat" alt="suyashnagargt" /> </p> 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpR6c5gApcHhZIFV47bcRw)
