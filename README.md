@@ -12,7 +12,7 @@
 
 "Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"
 
-What I do best:
+💡What I do best:
 
 Architect AI/ML workflows with Python, PySpark & Azure OpenAI that actually ship and scale
 
