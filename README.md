@@ -8,9 +8,21 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGpR6c5gApcHhZIFV47bcRw)
 
 
-*Hey there! I'm a data enthusiast who loves diving into Analytics, Machine Learning, and AI to create smart, impactful solutions. With experience leading cross-functional teams, I focus on blending technology with Agile/Scrum practices to drive innovation and efficiency.*
+🚀 AI/ML Consultant | Data Storyteller | Agile Leader
 
-*I'm always eager to learn and evolve with the latest advancements in AI and data science. Exploring new technologies, solving challenging problems, and building intelligent systems—that’s what keeps me motivated.*
+"Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"
+
+What I do best:
+
+Architect AI/ML workflows with Python, PySpark & Azure OpenAI that actually ship and scale
+
+Design dashboards so clear they practically narrate themselves
+
+Lead global teams to deliver faster, smarter, and with measurable impact
+
+📊 18+ years in the game — from enterprise-scale AI integrations to award‑winning analytics solutions, bridging the gap between boardroom vision and technical execution.
+
+🎯 Currently exploring the next frontier in Generative AI. 📍 Code. Data. Strategy. Repeat. ⚡ Because “good enough” is never good enough.
 
 *Let’s connect and collaborate on something exciting!*
 
