@@ -28,6 +28,21 @@ Toolbox:
 
    <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/copilot_48_color.svg" alt="Plotly logo" width="60" height="60">
 </div>
+---
+
+
+## Projects Executed
+
+Here are some of my key projects:
+
+- [ETL_Top10Bank_Analysis](https://github.com/SuyashNagarGT/ETL_Top10Bank_Analysis):  
+  End-to-end ETL pipeline and data analysis for top 10 banks using Python and data engineering tools.
+
+- [NYC_EDA_Au525](https://github.com/SuyashNagarGT/NYC_EDA_Au525):  
+  Exploratory Data Analysis on New York City datasets, uncovering insights and trends using advanced analytics.
+
+- [ED-IIIT](https://github.com/SuyashNagarGT/ED-IIIT):  
+  Data engineering and analytics solutions developed for educational institutions, focusing on scalable architectures.
 
 ---
 
