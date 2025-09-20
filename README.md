@@ -120,7 +120,38 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 
 ---
+🧰 My Arsenal Toolbox
+“Tools don’t just solve problems—they shape the way I think, build, and deliver.”
 
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly logo" width="50" height="50">
+</p>
+
+Microsoft Ecosystem
+
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/power_bi_48_color.svg" alt="Power BI logo" width="50" height="50">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_color.svg" alt="Fabric logo" width="50" height="50">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_factory_48_color.svg" alt="Data Factory logo" width="50" height="50">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/real_time_intelligence_48_color.svg" alt="Real-Time Intelligence logo" width="50" height="50">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/one_lake_48_color.svg" alt="OneLake logo" width="50" height="50">
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_engineering_48_color.svg" alt="Data Engineering logo" width="50" height="50">
+</p>
+
+💻 Dev & Notebook Tools
+
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" alt="Google Colab logo" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50">
+</p>
+
+---
 ## 🧾 Certification Wall
 “Credentials don’t define me—but they do reflect the rigor, curiosity, and clarity I bring to every challenge.”
 
