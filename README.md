@@ -167,12 +167,12 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 <p align="left">
   <!-- IBM Applied Data Science -->
   <a href="https://www.credly.com/badges/10962833-ff65-4800-8480-ecc8c99711e1" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/IBMDS.png" width="40" alt="IBM Data Science Badge"/>
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/8fabc08ca8076d864bfe854496ba49689f6f7606/IBMDS.png" width="40" alt="IBM Data Science Badge"/>
   </a>
 
   <!-- PMI Generative AI for PMs -->
   <a href="https://www.credly.com/badges/3693389b-59ad-441c-a957-fe6b64193808" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PMI.png" width="40" alt="PMI GenAI Badge"/>
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/8fabc08ca8076d864bfe854496ba49689f6f7606/PMI.png" width="40" alt="PMI GenAI Badge"/>
   </a>
 
   <!-- AI Skill Challenge August 2023 -->
