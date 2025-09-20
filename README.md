@@ -121,83 +121,75 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 
 ---
 
----
-
-## 🏅 Certificates
-
-> I believe the true testament to one's skills lies in the work they produce and share.  
-> Certifications are a valuable byproduct—reflecting the journey of learning and achievement.  
-> Here are the credentials I’ve earned along the way:
-
-### 🎓 Microsoft Certifications
-
-<p align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="50" alt="Power BI Badge"/>
-    <strong>Microsoft Certified: Power BI Data Analyst Associate</strong>
-  </a><br>
-
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Fundamentals Badge"/>
-    <strong>Microsoft Certified: Azure Fundamentals</strong>
-  </a><br>
-
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure AI Badge"/>
-    <strong>Microsoft Certified: Azure AI Fundamentals</strong>
-  </a><br>
-
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Data Badge"/>
-    <strong>Microsoft Certified: Azure Data Fundamentals</strong>
-  </a>
-</p>
-
----
-
-### 🌀 Scrum & Agile Credentials
-
-- 🧭 [Professional Scrum Product Owner (PSPO I)](https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2)
-- 🧠 [Professional Scrum Master (PSM I)](https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547)
-
----
----
----
-
 ## 🧾 Certification Wall
+“Credentials don’t define me—but they do reflect the rigor, curiosity, and clarity I bring to every challenge.”
 
-### 🎓 Certifications
+🎓 Certifications
 
 <p align="left">
+  <!-- Power BI Data Analyst Associate -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="50" alt="Power BI Badge"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="40" alt="Power BI Badge"/>
   </a>
 
+  <!-- Azure Fundamentals -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Fundamentals Badge"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="40" alt="Azure Fundamentals Badge"/>
   </a>
 
+  <!-- Azure AI Fundamentals -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure AI Badge"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="40" alt="Azure AI Badge"/>
   </a>
 
+  <!-- Azure Data Fundamentals -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Data Badge"/>
-  </a>
-</p>
-
----
-
-### 🌀 Badges
-
-<p align="left">
-  <a href="https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0b6c8a4e-8b7c-4c7f-8f3c-3b6f1f1f2a6c/PSPO_I.png" width="50" alt="PSPO I Badge"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="40" alt="Azure Data Badge"/>
   </a>
 
+  <!-- PSPO I -->
   <a href="https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2e6c5f5c-8f6a-4b6a-bb6c-3f6f1f1f2a6c/PSM_I.png" width="50" alt="PSM I Badge"/>
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PSPO.png" width="40" alt="PSPO I Badge"/>
+  </a>
+
+  <!-- PSM I -->
+  <a href="https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PSM1.png" width="40" alt="PSM I Badge"/>
   </a>
 </p>
 
----
+
+🧠 Badges
+<p align="left">
+  <!-- IBM Applied Data Science -->
+  <a href="https://www.credly.com/badges/10962833-ff65-4800-8480-ecc8c99711e1" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/IBMDS.png" width="40" alt="IBM Data Science Badge"/>
+  </a>
+
+  <!-- PMI Generative AI for PMs -->
+  <a href="https://www.credly.com/badges/3693389b-59ad-441c-a957-fe6b64193808" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PMI.png" width="40" alt="PMI GenAI Badge"/>
+  </a>
+
+  <!-- AI Skill Challenge August 2023 -->
+  <a href="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/august%202024%20certification.jpeg" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AISkillAug2024.jpeg" width="40" alt="AI Skill August 2023"/>
+  </a>
+
+  <!-- AI Skill Challenge April 2024 -->
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIApril2024.jpeg" width="40" alt="AI Skill April 2024"/>
+  </a>
+
+  <!-- AI Skill Challenge June 2024 -->
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIJune2024.jpeg" width="40" alt="AI Skill June 2024"/>
+  </a>
+
+  <!-- AI Skill Challenge November 2024 -->
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/XMJNLBUY?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Nov2024.jpeg" width="40" alt="AI Skill November 2024"/>
+  </a>
+</p>
+
+ 
