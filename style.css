@@ -2,11 +2,21 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-image: url('https://raw.githubusercontent.com/SuyashNagarGT/SuyashNagar/0041e7ab4333fd78a90cececc0b1ed852285f9d5/Pencil%20art.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+  background-color: #121212; /* Dark background */
+  color: #f0f0f0;            /* Light text */
   font-family: 'Segoe UI', sans-serif;
-  color: #222;
+}
+
+a {
+  color: #80cbc4; /* Teal links */
+}
+
+table {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #444;
 }
