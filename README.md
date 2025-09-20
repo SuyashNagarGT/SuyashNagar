@@ -9,6 +9,7 @@
          </td>
   </tr>
 </table>
+
 ---
 
 ## 🌐 Connect with Me
@@ -28,5 +29,18 @@
 </p>
 
 <p><em>Let’s connect, collaborate, and create clarity—across platforms, projects, and punchlines.</em></p>
+
+---
+---
+
+## 🧠 About Me
+
+For over 18 years, I’ve been at the intersection of AI, data analytics, and digital transformation—translating complexity into clarity and strategy into impact. My journey began with hands-on engineering and evolved into leading global teams, driving innovation for Fortune 500 clients, and turning emerging tech into business outcomes.
+
+I thrive in multicultural, cross-functional environments, having led distributed teams across India and North America. My approach blends technical depth with stakeholder empathy, always aiming to make innovation accessible and actionable.
+
+Now, I’m deepening my expertise through a second Master’s in AI/ML and looking ahead to strategic leadership roles where I can shape GenAI adoption, empower teams, and architect solutions that scale. Whether it’s building intelligent workflows or mentoring the next wave of talent, I’m here to lead with purpose, precision, and a passion for transformation.
+
+Let’s connect if you’re building the future of AI—and want someone who’s already helping shape it.
 
 ---
