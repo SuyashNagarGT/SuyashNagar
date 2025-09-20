@@ -46,3 +46,25 @@ Now, I’m deepening my expertise through a second Master’s in AI/ML and looki
 Let’s connect if you’re building the future of AI—and want someone who’s already helping shape it.
 
 ---
+---
+
+## 🎥 My YouTube Channel: [@suyashnagar](https://www.youtube.com/@suyashnagar)
+
+I create content that bridges the gap between data, strategy, and storytelling—from Power BI tutorials to AI foundations and project leadership insights.
+
+### 🔹 Featured Videos
+
+- [Human Factors in AI](https://www.youtube.com/watch?v=Om2OlDIiBl4)  
+  A thoughtful dive into the ethical and behavioral dimensions of AI adoption.
+
+- [Machine Learning Foundations for Product Managers](https://www.youtube.com/watch?v=4lhOR7MXT98)  
+  Making ML accessible for decision-makers—clear, modular, and actionable.
+
+- [Managing Machine Learning Projects – Coursera](https://www.youtube.com/watch?v=USiTd0Qw3Bw)  
+  A strategic overview of ML project lifecycle, stakeholder alignment, and delivery excellence.
+
+- [Microsoft Power BI – Power of DAX Average](https://www.youtube.com/watch?v=JeouI9Xfwng)  
+  A crisp walkthrough of DAX logic and how to leverage averages for smarter dashboards.
+---
+
+📌 Subscribe for more insights on GenAI, analytics, and the art of making data memorable.
