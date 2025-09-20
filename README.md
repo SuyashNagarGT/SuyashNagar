@@ -70,19 +70,54 @@ I create content that bridges the gap between data, strategy, and storytelling�
 📌 Subscribe for more insights on GenAI, analytics, and the art of making data memorable.
 
 ---
+---
 
 ## 📊 Featured Projects
 
 ### 🏦 [ETL World Banks (Sep 2025)](https://github.com/SuyashNagarGT/ETL_Top10Bank_Analysis)
-A PySpark-powered ETL pipeline analyzing the market capitalization of the world’s top 10 banks. Includes currency conversion, dominance scoring, and strategic segmentation using AWS S3, SQLite, and Matplotlib.
+A PySpark-powered ETL pipeline analyzing the market capitalization of the world’s top 10 banks. Includes currency conversion, dominance scoring, and strategic segmentation using cloud-native tools.
 
-### 🚚 [Order Delivery – Porter (June 2025)](https://github.com/SuyashNagarGT/LR_Delivery_Time_Prediction_SuyashNagar)
-Linear Regression model predicting delivery times for intra-city logistics. Features EDA, outlier handling, and performance tuning for operational efficiency in the Porter delivery ecosystem.
-
-### 🏠 [Housing Price Prediction (May 2025)](https://github.com/SuyashNagarGT/HousingPrice_Regression)
-Regression-based model estimating housing prices using multivariate analysis. Focuses on feature selection, residual diagnostics, and interpretability for real estate decision-making.
-
-### 🚖 [EDA – NYC Yellow Taxi (2023–March 2025)](https://github.com/SuyashNagarGT/EDA_Optimising_NYC_Taxis_Suyash)
-Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zones, and routing inefficiencies. Includes geospatial visualizations, tip behavior insights, and dispatch optimization strategies.
+**Badges:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat&logo=apache-spark&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
+
+### 🚚 [Order Delivery – Porter (June 2025)](https://github.com/SuyashNagarGT/LR_Delivery_Time_Prediction_SuyashNagar)
+Linear Regression model predicting delivery times for intra-city logistics. Features EDA, outlier handling, and performance tuning for operational efficiency.
+
+**Badges:**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-795548?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+### 🏠 [Housing Price Prediction (May 2025)](https://github.com/SuyashNagarGT/HousingPrice_Regression)
+Regression-based model estimating housing prices using multivariate analysis. Focuses on feature selection, residual diagnostics, and interpretability.
+
+**Badges:**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-795548?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+### 🚖 [EDA – NYC Yellow Taxi (2023–March 2025)](https://github.com/SuyashNagarGT/EDA_Optimising_NYC_Taxis_Suyash)
+Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zones, and routing inefficiencies. Includes geospatial visualizations and dispatch optimization strategies.
+
+**Badges:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+
+---
+
