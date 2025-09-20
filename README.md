@@ -9,7 +9,7 @@
       <h2>Welcome 👋</h2>
       <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
       <p style="margin-top: 10px; font-size: 16px;">
-        <em>"Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"</em>
+        <em>"Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics |</em>
       </p>
     </td>
   </tr>
