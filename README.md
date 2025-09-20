@@ -177,22 +177,22 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 
   <!-- AI Skill Challenge August 2023 -->
   <a href="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/august%202024%20certification.jpeg" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AISkillAug2024.jpeg" width="40" alt="AI Skill August 2023"/>
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/0266b938ded7ac1363e9c8a1cb69898045693ea8/AISkillAug2024.jpeg" width="40" alt="AI Skill August 2023"/>
   </a>
 
   <!-- AI Skill Challenge April 2024 -->
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/UXYBYRX3?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIApril2024.jpeg" width="40" alt="AI Skill April 2024"/>
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/0266b938ded7ac1363e9c8a1cb69898045693ea8/AIApril2024.jpeg" width="40" alt="AI Skill April 2024"/>
   </a>
 
   <!-- AI Skill Challenge June 2024 -->
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/YMC27X3R?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/AIJune2024.jpeg" width="40" alt="AI Skill June 2024"/>
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/0266b938ded7ac1363e9c8a1cb69898045693ea8/AIJune2024.jpeg" width="40" alt="AI Skill June 2024"/>
   </a>
 
   <!-- AI Skill Challenge November 2024 -->
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SuyashNagar-7992/XMJNLBUY?sharingId=7675DBFC8343B36B" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/main/Nov2024.jpeg" width="40" alt="AI Skill November 2024"/>
+    <img src="https://github.com/SuyashNagarGT/Certification_Badges/blob/0266b938ded7ac1363e9c8a1cb69898045693ea8/Nov2024.jpeg" width="40" alt="AI Skill November 2024"/>
   </a>
 </p>
 
