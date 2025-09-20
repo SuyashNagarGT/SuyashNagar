@@ -199,7 +199,7 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
  ---
 
  📬 Connect with Me
-Let’s Collaborate 🤝 Whether it’s AI, analytics, or meme-powered education—I'm always open to building something impactful.
+Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, —I'm always open to building something impactful.
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
