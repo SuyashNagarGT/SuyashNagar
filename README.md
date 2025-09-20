@@ -155,6 +155,17 @@ Microsoft Ecosystem
 </p>
 
 ---
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly logo" width="50" height="50">
+</p>
+
+
+
 ## 🧾 Certification Wall
 “Credentials don’t define me—but they do reflect the rigor, curiosity, and clarity I bring to every challenge.”
 
