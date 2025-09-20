@@ -161,3 +161,43 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 - 🧠 [Professional Scrum Master (PSM I)](https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547)
 
 ---
+---
+---
+
+## 🧾 Certification Wall
+
+### 🎓 Certifications
+
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="50" alt="Power BI Badge"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Fundamentals Badge"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure AI Badge"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Data Badge"/>
+  </a>
+</p>
+
+---
+
+### 🌀 Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0b6c8a4e-8b7c-4c7f-8f3c-3b6f1f1f2a6c/PSPO_I.png" width="50" alt="PSPO I Badge"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2e6c5f5c-8f6a-4b6a-bb6c-3f6f1f1f2a6c/PSM_I.png" width="50" alt="PSM I Badge"/>
+  </a>
+</p>
+
+---
