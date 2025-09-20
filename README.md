@@ -1,17 +1,18 @@
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/Suaysh_image.jpeg" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
+      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
     </td>
     <td valign="top">
       <h2>Welcome 👋</h2>
       <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
       <p style="margin-top: 10px; font-size: 16px;">
-               <em>"Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"</em>
+        <em>"Leading global teams to turn data into decisions | 18+ yrs in AI, ML & analytics | ⚡ Because ‘good enough’ is never good enough"</em>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ## 🌐 Connect with Me
