@@ -150,15 +150,16 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="40" alt="Azure Data Badge"/>
   </a>
 
-  <!-- PSPO I -->
-  <a href="https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PSPO.png" width="40" alt="PSPO I Badge"/>
-  </a>
+<!-- PSPO I -->
+<a href="https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547" target="_blank">
+  <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/77c5264e331b6e07b0497186d5c80de4f26d326f/PSPO.png?raw=true" width="40" alt="PSPO I Badge"/>
+</a>
 
-  <!-- PSM I -->
-  <a href="https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2" target="_blank">
-    <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/PSM1.png" width="40" alt="PSM I Badge"/>
-  </a>
+<!-- PSM I -->
+<a href="https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2" target="_blank">
+  <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/77c5264e331b6e07b0497186d5c80de4f26d326f/PSM1.png?raw=true" width="40" alt="PSM I Badge"/>
+</a>
+
 </p>
 
 
