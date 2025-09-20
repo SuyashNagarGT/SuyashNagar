@@ -1,7 +1,12 @@
-body {
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   background-image: url('https://raw.githubusercontent.com/SuyashNagarGT/SuyashNagar/0041e7ab4333fd78a90cececc0b1ed852285f9d5/Pencil%20art.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  font-family: 'Segoe UI', sans-serif;
+  color: #222;
 }
