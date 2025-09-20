@@ -139,20 +139,21 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 Microsoft Ecosystem
 
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/power_bi_48_color.svg" alt="Power BI logo" width="50" height="50">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_color.svg" alt="Fabric logo" width="50" height="50">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_factory_48_color.svg" alt="Data Factory logo" width="50" height="50">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/real_time_intelligence_48_color.svg" alt="Real-Time Intelligence logo" width="50" height="50">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/one_lake_48_color.svg" alt="OneLake logo" width="50" height="50">
-  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/data_engineering_48_color.svg" alt="Data Engineering logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/power-bi.svg" alt="Power BI logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/fabric.svg" alt="Fabric logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/data-factory.svg" alt="Data Factory logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/real-time-intelligence.svg" alt="Real-Time Intelligence logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/one-lake.svg" alt="OneLake logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fabric-icons/main/icons/data-engineering.svg" alt="Data Engineering logo" width="50" height="50">
 </p>
+
 
 💻 Dev & Notebook Tools
 
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" alt="Google Colab logo" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="Google Colab logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50">
 </p>
 
 ---
