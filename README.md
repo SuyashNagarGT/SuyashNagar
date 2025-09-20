@@ -224,4 +224,38 @@ Microsoft Ecosystem
 </p>
 
  ---
+
+ 📬 Connect with Me
+Let’s Collaborate 🤝 Whether it’s AI, analytics, or meme-powered education—I'm always open to building something impactful.
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/suyashnagar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@suyashnagar" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" alt="YouTube"/>
+  </a>
+
+  <!-- GitHub (white version for dark background) -->
+  <a href="https://github.com/SuyashNagarGT" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" alt="GitHub"/>
+  </a>
+
+  <!-- Phone (white icon) -->
+  <a href="tel:+917906655101" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" width="30" alt="Phone"/>
+  </a>
+
+  <!-- Email (white icon) -->
+  <a href="mailto:suyash.nagar@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="30" alt="Email"/>
+  </a>
+
+</p>
+
+
  
