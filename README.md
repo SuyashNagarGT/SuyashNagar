@@ -121,3 +121,43 @@ Exploratory analysis of NYC taxi trip data to uncover fare patterns, demand zone
 
 ---
 
+---
+
+## 🏅 Certificates
+
+> I believe the true testament to one's skills lies in the work they produce and share.  
+> Certifications are a valuable byproduct—reflecting the journey of learning and achievement.  
+> Here are the credentials I’ve earned along the way:
+
+### 🎓 Microsoft Certifications
+
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/8A2AC83239B0BE28?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="50" alt="Power BI Badge"/>
+    <strong>Microsoft Certified: Power BI Data Analyst Associate</strong>
+  </a><br>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/EED231754610329C?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Fundamentals Badge"/>
+    <strong>Microsoft Certified: Azure Fundamentals</strong>
+  </a><br>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/36FFB6D25AA35C16?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure AI Badge"/>
+    <strong>Microsoft Certified: Azure AI Fundamentals</strong>
+  </a><br>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SuyashNagar-7992/AF0A763C8B8E3972?sharingId=7675DBFC8343B36B" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Azure Data Badge"/>
+    <strong>Microsoft Certified: Azure Data Fundamentals</strong>
+  </a>
+</p>
+
+---
+
+### 🌀 Scrum & Agile Credentials
+
+- 🧭 [Professional Scrum Product Owner (PSPO I)](https://www.credly.com/badges/0165344b-f502-447a-9378-33ec1b97e1a2)
+- 🧠 [Professional Scrum Master (PSM I)](https://www.credly.com/badges/df051ae0-c8f9-4f86-9ce7-b46576564547)
+
+---
